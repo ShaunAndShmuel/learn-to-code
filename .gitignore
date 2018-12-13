@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.env
+prisma.yml
+node_modules/
+.DS_Store
+*.log
+/backend/generated/prisma.graphql
